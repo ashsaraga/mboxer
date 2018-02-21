@@ -4,7 +4,7 @@
 
 ## Instructions:
 1.  Open terminal window and set current directory to mboxer
-		*This step optional of course, just adjust subsequent files paths to suit.*
+*This step optional of course, just adjust subsequent files paths to suit.*
   + Ex.  If mboxer file is on desktop: `cd Desktop/mboxer/`
 2.  Place .mbox file for conversion in mboxer folder as 'input.mbox'
 3.  Back in terminal window, call the python script: `python mboxer.py`
